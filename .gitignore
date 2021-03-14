@@ -2,14 +2,14 @@
 web/node_modules/
 server/node_modules/
 /node_modules/
-/.pnp
-.pnp.js
+web/.pnp
+web/.pnp.js
 
 # testing
-/coverage
+web/coverage
 
 # production
-/build
+web/build
 
 # misc
 .DS_Store
